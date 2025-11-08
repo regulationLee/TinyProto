@@ -1,5 +1,5 @@
 # TinyProto
-TinyProto: Communication-Efficient Federated Learning with Sparse Prototypes in Resource-Constrained Environments([arXiv](https://www.arxiv.org/abs/2507.04327))
+[AAAI '26 Accepted] TinyProto: Communication-Efficient Federated Learning with Sparse Prototypes in Resource-Constrained Environments([arXiv](https://www.arxiv.org/abs/2507.04327))
 
 
 ### Environment setting
