@@ -1,4 +1,4 @@
-# TinyProto
+# Communication-Efficient Heterogeneous Federated Learning with Sparse Prototypes in Resource-Constrained Environments
 Code for the paper **"Communication-Efficient Heterogeneous Federated Learning with Sparse Prototypes in Resource-Constrained Environments"** a.k.a TinyProto, accepted to AAAI 2026 (Main)
 
 Communication efficiency in federated learning (FL) remains a critical challenge in resource-constrained environments. While prototype-based FL reduces communication overhead by sharing class prototypes—mean activations 
