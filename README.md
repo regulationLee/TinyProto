@@ -9,7 +9,7 @@ Beyond communication efficiency, TinyProto offers crucial advantages: it achieve
 resource-constrained heterogeneous FL scenarios. (Paper: [arXiv](https://arxiv.org/abs/2507.04327) )
 
 
-### Environment setting
+## ⚙️ Implementation
 #### Ubuntu
 ```sh
 pyenv install 3.10
