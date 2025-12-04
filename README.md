@@ -10,7 +10,7 @@ resource-constrained heterogeneous FL scenarios. (Paper: [arXiv](https://arxiv.o
 
 
 ## ⚙️ Implementation
-#### Ubuntu
+### Ubuntu
 ```sh
 pyenv install 3.10
 pyenv local 3.10
